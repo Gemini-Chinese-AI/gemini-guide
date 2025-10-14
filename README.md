@@ -100,6 +100,26 @@ Gemini 被誉为 AI 界的「全能型选手」与"聪明的逻辑思想家"，�
 
 **🔗 [访问 Gemini-Chinese](https://www.gemini-chinese.com)**
 
+### 3. Gemini-CN（中文官方网址）
+
+**⭐ 综合评分：★★★★☆**
+
+**亮点特色：**
+- 核心模型覆盖广泛，包括 Gemini 2.5 Pro、GPT-4o（支持绘图）、Claude 3 Sonnet 等，同时还支持 Midjourney AI 绘画。
+
+**主打优势：**
+- 🎯 专注 Gemini 模型优化
+- 💨 界面设计追求极简和高效
+- 🚀 响应速度快
+
+**适用场景：**
+非常适合追求轻量化和整洁操作界面的用户。
+
+**特色体验：**
+集成的 Midjourney 绘画功能无需"科学上网"，对于喜爱 AI 艺术创作的用户来说极具吸引力。
+
+**🔗 [访问 Gemini-Chinese](https://www.gemini-cn.com)**
+
 ## 使用 Gemini 的注意事项
 
 ::: warning 隐私保护
